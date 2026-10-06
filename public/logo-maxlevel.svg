@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+  <rect x="5" y="10" width="40" height="40" rx="10" fill="#CCFF00"/>
+  <polygon points="27,16 16,33 25,33 22,44 33,28 24,28" fill="#000000"/>
+  <text x="56" y="38" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-style="italic" font-size="28" fill="#FFFFFF" letter-spacing="-1">MAX <tspan fill="#CCFF00">LEVEL</tspan></text>
+  <text x="58" y="49" font-family="system-ui, sans-serif" font-weight="700" font-size="9" fill="#94A3B8" letter-spacing="3">SUPLEMENTOS</text>
+</svg>

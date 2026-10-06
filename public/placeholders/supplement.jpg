@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#121824"/>
+  <rect x="20" y="20" width="360" height="360" rx="20" fill="none" stroke="#222F46" stroke-width="4"/>
+  <circle cx="200" cy="180" r="70" fill="#1A2234" stroke="#CCFF00" stroke-width="4"/>
+  <polygon points="205,130 180,180 205,180 195,230 225,175 200,175" fill="#CCFF00"/>
+  <text x="200" y="290" font-family="system-ui, sans-serif" font-weight="900" font-size="20" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">MAX LEVEL</text>
+  <text x="200" y="320" font-family="system-ui, sans-serif" font-weight="700" font-size="12" fill="#CCFF00" text-anchor="middle" letter-spacing="4">SUPLEMENTOS</text>
+</svg>
